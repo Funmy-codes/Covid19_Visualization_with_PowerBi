@@ -4,6 +4,11 @@
 
 This repository contains an analysis of COVID-19 data using Power BI. The data includes confirmed cases, deaths, recoveries, and active cases segmented by WHO regions and individual provinces/states in the USA. The visualizations are provided in a PDF format for easy viewing.
 
+
+# Project Overview
+The aim of this project is to provide a comprehensive visual analysis of the global and regional impact of the COVID-19 pandemic, focusing on the spread of the virus, recovery rates, and mortality. The visualizations give insights into how different regions have been affected and allow for comparison between countries and regions.
+
+
 ## Dataset Information
 The dataset contains the following key attributes:
 - *Country/Region*: The country or region the data belongs to.
