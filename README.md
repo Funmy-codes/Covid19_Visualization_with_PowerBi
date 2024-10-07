@@ -50,16 +50,6 @@ The aim of this project is to provide a comprehensive visual analysis of the glo
       - Michigan
       - Illinois
 
-## Dataset Information
-The dataset contains the following key attributes:
-- *Country/Region*: The country or region the data belongs to.
-- *Confirmed Cases*: Total number of confirmed COVID-19 cases.
-- *Deaths*: Total number of deaths due to COVID-19.
-- *Recovered*: Total number of recoveries from COVID-19.
-- *Active Cases*: Number of ongoing cases.
-- *New Cases*: Daily new confirmed cases.
-- *New Deaths*: Daily new deaths reported.
-- *WHO Region*: WHO classification of the region.
 
 ## Visualizations Included
 The PDF file contains several visualizations that provide a comprehensive overview of the COVID-19 pandemic:
