@@ -7,39 +7,49 @@ This repository contains an analysis of COVID-19 data using Power BI. The data i
 The aim of this project is to provide a comprehensive visual analysis of the global and regional impact of the COVID-19 pandemic, focusing on the spread of the virus, recovery rates, and mortality. The visualizations give insights into how different regions have been affected and allow for comparison between countries and regions.
 
 # Key Visualizations:
-Global Summary:
-Total Confirmed Cases: 829M
-Total Recovered Cases: 388M
-Total Active Cases: 397M
-Total Deaths: 43M
-WHO Regions Analyzed: 6
-Regional Breakdown (by WHO Regions):
-Sum of Confirmed Cases:
 
-Americas: 402M (48.55%)
-Europe: 249M (30.04%)
-Eastern Mediterranean: 74M (8.94%)
-South-East Asia: 55M (6.65%)
-Western Pacific: 22M (2.63%)
-Africa: 26M (3.17%)
-Sum of Deaths:
+- Global Summary:
+  - Total Confirmed Cases: 829M
+  - Total Recovered Cases: 388M
+  - Total Active Cases: 397M
+  - Total Deaths: 43M
+  - WHO Regions Analyzed: 6
 
-Americas: 19M (44.62%)
-Europe: 19M (44.42%)
-COVID-19 Analysis in the USA:
-Top States by Confirmed Cases:
-New York
-California
-New Jersey
-Texas
-Florida
-Illinois
-Top States by Deaths:
-New York
-New Jersey
-Massachusetts
-Michigan
-Illinois
+- Regional Breakdown (by WHO Regions):
+  
+   - Sum of Confirmed Cases:
+   
+      - Americas: 402M (48.55%)
+      - Europe: 249M (30.04%)
+      - Eastern Mediterranean: 74M (8.94%)
+      - South-East Asia: 55M (6.65%)
+      - Western Pacific: 22M (2.63%)
+      -  Africa: 26M (3.17%)
+        
+  -  Sum of Deaths:
+
+      - Americas: 19M (44.62%)
+      - Europe: 19M (44.42%)
+     
+- COVID-19 Analysis in the USA:
+
+   - Top States by Confirmed Cases:
+     
+      - New York
+      - California
+      - New Jersey
+      - Texas
+      - Florida
+      - Illinois
+     
+   - Top States by Deaths:
+  
+      - New York
+      - New Jersey
+      - Massachusetts
+      - Michigan
+      - Illinois
+
 ## Dataset Information
 The dataset contains the following key attributes:
 - *Country/Region*: The country or region the data belongs to.
